@@ -741,7 +741,7 @@ export default function App() {
                   style={{ fontFamily: "'DM Mono', monospace" }}
                   className="text-[10px] uppercase tracking-[0.35em] text-muted-foreground mb-4"
                 >
-                  Sacred Collections
+                  Sacred Collection
                 </div>
                 <h2
                   style={{ fontFamily: "'Playfair Display', serif" }}
@@ -1098,7 +1098,7 @@ export default function App() {
                 style={{ fontFamily: "'DM Mono', monospace" }}
                 className="text-[10px] text-muted-foreground"
               >
-                © 2024 Scriptura · Ancient Texts, Eternal Preservation
+                © 2026 Scriptura · Ancient Texts, Eternal Preservation
               </p>
               <div className="flex items-center gap-6">
                 {["Privacy", "Terms", "Accessibility", "Open Source"].map((l) => (
